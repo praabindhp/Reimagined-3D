@@ -8,3 +8,7 @@ npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-
 npm install --legacy-peer-deps three
 
 npm run dev
+
+Public Key : bgewqvVuFUX-OBNjZ
+Template ID : template_buope0b
+Service ID : service_p4yiane
