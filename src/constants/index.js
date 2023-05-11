@@ -173,7 +173,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+      "I thought it was impossible to make a website as beautiful as our product, but Praabindh proved me wrong.",
     name: "Sara Lee",
     designation: "CFO",
     company: "Acme Co",
@@ -181,7 +181,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "I've never met a web developer who truly cares about their clients' success like Praabindh does.",
     name: "Chris Brown",
     designation: "COO",
     company: "DEF Corp",
@@ -189,7 +189,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "After Praabindh optimized our website, our traffic increased by 50%. We can't thank them enough!",
     name: "Lisa Wang",
     designation: "CTO",
     company: "456 Enterprises",
@@ -199,67 +199,67 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "The Reimagined 3D",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Reimagined 3D is a 3D portfolio website of Praabindh that showcases the best of 3D art and design. Built using React and Three.js, it offers a seamless and interactive user experience. The website's three-dimensional layout highlights the portfolio's depth and complexity, with easy-to-navigate menus that allow visitors to explore Praabindh's work in detail with visually stunning website to showcase the best of 3D art and design.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "threejs",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "tailwindcss",
         color: "pink-text-gradient",
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/praabindh/Reimagined-3D",
   },
   {
-    name: "Job IT",
+    name: "The Schema Wind",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "SchemaWind defines how data is organized within a relational database and includes logical constraints such as table names, fields, data types, and the relationships between these entities. An open-source project for developers to use working schema of various fields of technological domains as well as for contributing to resolving the rising demands of models, database structures, and schema in the back-end applications.",
     tags: [
       {
-        name: "react",
+        name: "html",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "css",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "sql",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/praabindh/SchemaWind",
   },
   {
-    name: "Trip Guide",
+    name: "The HALE : Wor-Corp",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Project HALE Wor-Corp integrates IoT, Blockchain, APIs, and AI to enhance patient care, streamline administrative processes, and improve healthcare delivery. The system collects real-time data via IoT devices, securely transmits it using blockchain technology, and applies AI algorithms to analyze it. It facilitates effective workplace management, collaboration, and workflow visualization.",
     tags: [
       {
-        name: "nextjs",
+        name: "fullstack",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "blockchain",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "api",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/praabindhp/Wor-Corp-Dev",
   },
 ];
 
