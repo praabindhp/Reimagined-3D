@@ -5,10 +5,33 @@
 
 ### Reimagined 3D Portfolio Created & Rendered With ReactJS & ThreeJS By Praabindh's Org
 
+### Application Live @ [Praabindh's Reimagined - 3D](https://effulgent-meringue-0a12cd.netlify.app/)
+
+#### Do Check (Click) It Out !!!
+
 Reimagined 3D Portfolio Created & Rendered With ReactJS & ThreeJS By Praabindh's Org is an impressive project that showcases the best of 3D art and design. The project was created and rendered by Praabindh's Org using the powerful combination of ReactJS and ThreeJS. The website features an interactive 3D layout that allows visitors to view Praabindh's work from different angles, highlighting the depth and complexity of his 3D art and design.
 
 ### ReImagined 3D | Home
 ![ReImagined Home](https://iili.io/HU5RRKg.png)
+
+<br>
+
+## Tech Stack
+
+- JavaScript
+- ReactJS
+- ThreeJS
+- ThreeJS Fiber
+- ThreeJS Drei
+- HTML5
+- Tailwind CSS
+- Maath
+- React Tilt
+- React Vertical Timeline Component
+- React Router DOM
+- Vite
+- EmailJS
+- Framer Motion
 
 ## Features
 
@@ -19,7 +42,7 @@ Reimagined 3D Portfolio Created & Rendered With ReactJS & ThreeJS By Praabindh's
 ### ReImagined 3D | Overview
 ![ReImagined Overview](https://iili.io/HU5RTV1.png)
 
-**Responsive Design** - The website is designed to work seamlessly on desktop and mobile devices.
+**Responsive design** - The website has been designed using a responsive design approach, where the layout and content adapt to different screen sizes and resolutions. This ensures that the website looks and works well on devices with varying screen sizes, such as desktops, laptops, tablets, and smartphones.
 
 ### ReImagined 3D | Tech
 ![ReImagined Tech](https://iili.io/HU5RuiF.png)
@@ -40,22 +63,13 @@ The website includes a contact form powered by EmailJS that visitors can use to 
 ### ReImagined 3D | Contact
 ![ReImagined Contact](https://iili.io/HU5RIoP.png)
 
-## Tech Stack
+**User-friendly navigation** - The website's navigation has been optimized for both desktop and mobile devices, with clear and easy-to-use menus, buttons, and links. This makes it easy for users to find what they're looking for, regardless of the device they're using.
 
-- JavaScript
-- ReactJS
-- ThreeJS
-- ThreeJS Fiber
-- ThreeJS Drei
-- HTML5
-- Tailwind CSS
-- Maath
-- React Tilt
-- React Vertical Timeline Component
-- React Router DOM
-- Vite
-- EmailJS
-- Framer Motion
+**Touch-friendly interface** - For mobile devices, the website's interface has been optimized for touch input, with larger buttons, clear labels, and intuitive gestures. This ensures that users can interact with the website using their fingers, without the need for a mouse or keyboard.
+
+**Fast loading times** - The website has been optimized for fast loading times on both desktop and mobile devices, with compressed images, streamlined code, and minimal use of external scripts and plugins. This ensures that users can access the website quickly, even on slower connections or older devices.
+
+**Cross-browser compatibility** - The website has been tested and optimized to work seamlessly on all major web browsers, including Chrome, Firefox, Safari, and Internet Explorer. This ensures that users can access the website from any device, using their preferred browser.
 
 ### Built With Technology
 
@@ -73,7 +87,6 @@ Reimagined features an easy-to-navigate menu that allows visitors to explore Pra
 
 ## Installation
 
-#### For Building From Scratch
 ```bash
 npm create vite@latest ./ -- --template react 
 
@@ -114,12 +127,15 @@ Open -> http://localhost:5173/ In Browser -> To View The Web Application
 Reimagined is an excellent example of how the combination of ReactJS and ThreeJS can be used to create a visually stunning and interactive 3D portfolio website. Praabindh's Org has demonstrated excellent skill and creativity in the development and rendering of the website. The website is not only a showcase of Praabindh's work but also a testament to the power and flexibility of ReactJS and ThreeJS.
 ## Authors
 
-- [@praabindhp](https://www.github.com/praabindhp)
+#### [@praabindhp](https://www.github.com/praabindhp)
+- Email : praabindhp@gmail.com
 
-- [@praabindh](https://www.github.com/praabindh)
+#### [@praabindh](https://www.github.com/praabindh)
+- Email : praabindh@codingmart.com
 
 Built During The Internship Phase Of Product Engineer In [Codingmart Technologies](https://codingmart.com/), Coimbatore, Tamil Nadu, India.
 
+#### Dated & Documented : May 12, 2023
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
