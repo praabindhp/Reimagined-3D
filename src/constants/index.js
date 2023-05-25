@@ -199,46 +199,25 @@ const testimonials = [
 
 const projects = [
   {
-    name: "The Reimagined 3D",
+    name: "The FLICKBYTES",
     description:
-      "Reimagined 3D is a 3D portfolio website of Praabindh that showcases the best of 3D art and design. Built using React and Three.js, it offers a seamless and interactive user experience. The website's three-dimensional layout highlights the portfolio's depth and complexity, with easy-to-navigate menus that allow visitors to explore Praabindh's work in detail with visually stunning website to showcase the best of 3D art and design.",
+      "FlickBytes by Praabindh's Org is an innovative web application that offers a comprehensive platform for movie enthusiasts to explore, interact with, and discover new films. With its powerful creativity and utilization of advanced JavaScript tools, such as React.js, Redux, Material UI, and Alan AI, FlickBytes delivers an engaging user experience. By offering both light and dark modes, FlickBytes allows users to customize the UI/UX.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "threejs",
+        name: "material-ui",
         color: "green-text-gradient",
       },
       {
-        name: "tailwindcss",
+        name: "alan-ai",
         color: "pink-text-gradient",
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/praabindh/Reimagined-3D",
-  },
-  {
-    name: "The Schema Wind",
-    description:
-      "SchemaWind defines how data is organized within a relational database and includes logical constraints such as table names, fields, data types, and the relationships between these entities. An open-source project for developers to use working schema of various fields of technological domains as well as for contributing to resolving the rising demands of models, database structures, and schema in the back-end applications.",
-    tags: [
-      {
-        name: "html",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "css",
-        color: "green-text-gradient",
-      },
-      {
-        name: "sql",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: jobit,
-    source_code_link: "https://github.com/praabindh/SchemaWind",
+    source_code_link: "https://github.com/praabindh/Flick-Bytes",
   },
   {
     name: "The HALE : Wor-Corp",
@@ -260,6 +239,27 @@ const projects = [
     ],
     image: tripguide,
     source_code_link: "https://github.com/praabindhp/Wor-Corp-Dev",
+  },
+  {
+    name: "The SCHEMAWIND",
+    description:
+      "SchemaWind defines how data is organized within a relational database and includes logical constraints such as table names, fields, data types, and the relationships between these entities. An open-source project for developers to use working schema of various fields of technological domains as well as for contributing to resolving the rising demands of models, database structures, and schema in the back-end applications.",
+    tags: [
+      {
+        name: "html",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "css",
+        color: "green-text-gradient",
+      },
+      {
+        name: "sql",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: jobit,
+    source_code_link: "https://github.com/praabindh/SchemaWind",
   },
 ];
 

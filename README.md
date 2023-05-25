@@ -5,7 +5,7 @@
 
 ### Reimagined 3D Portfolio Created & Rendered With ReactJS & ThreeJS By Praabindh's Org
 
-### Application Live @ [Praabindh's Reimagined - 3D](https://effulgent-meringue-0a12cd.netlify.app/)
+### Application Live @ [Praabindh's ReImagined - 3D](https://reimagined3d.netlify.app/)
 
 #### Do Check (Click) It Out !!!
 
@@ -50,7 +50,7 @@ Reimagined 3D Portfolio Created & Rendered With ReactJS & ThreeJS By Praabindh's
 **Interactive Components** - Interactive components such as React Tilt and Framer Motion are used to enhance the user experience.
 
 ### ReImagined 3D | Projects
-![ReImagined Projects](https://iili.io/HU5R5la.png)
+![ReImagined Projects](https://iili.io/HrJhS44.png)
 
 **Vertical Timeline Component** - The website features a vertical timeline component that showcases Praabindh's work chronologically.
 
@@ -120,11 +120,15 @@ Run the development server
 npm start / npm run dev
 ```
 
-Open -> http://localhost:5173/ In Browser -> To View The Web Application
+View The Web Application
+```bash
+Open -> http://localhost:5173/ In Browser 
+```
 
 ## Conclusion
 
 Reimagined is an excellent example of how the combination of ReactJS and ThreeJS can be used to create a visually stunning and interactive 3D portfolio website. Praabindh's Org has demonstrated excellent skill and creativity in the development and rendering of the website. The website is not only a showcase of Praabindh's work but also a testament to the power and flexibility of ReactJS and ThreeJS.
+
 ## Authors
 
 #### [@praabindhp](https://www.github.com/praabindhp)
@@ -135,12 +139,6 @@ Reimagined is an excellent example of how the combination of ReactJS and ThreeJS
 
 Built During The Internship Phase Of Product Engineer In [Codingmart Technologies](https://codingmart.com/), Coimbatore, Tamil Nadu, India.
 
-#### Dated & Documented : May 12, 2023
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Contact
-If you have any questions or comments about the website, feel free to get in touch with Praabindh via the contact form on the website.
 ## License
 
 [GNU AGPLv3](https://choosealicense.com/licenses/agpl-3.0/)
@@ -148,4 +146,13 @@ If you have any questions or comments about the website, feel free to get in tou
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
+
 If you have any questions or comments about the website, feel free to get in touch with Praabindh via the contact form on the website.
+
+#### Phone : +91-9445210125
+#### Personal Email : praabindhp@gmail.com
+#### Official Email : praabindh@codingmart.com
+#### LinkedIn : [PRAABINDH PRADEEP](https://linkedin.com/in/praabindh-pradeep-87354b1ba)
+#### Instagram : [@praabindhp](https://instagram.com/praabindhp)
+#### Personal GitHub : [@praabindhp](https://github.com/praabindhp)
+#### Official GitHub : [@praabindh](https://github.com/praabindh)
