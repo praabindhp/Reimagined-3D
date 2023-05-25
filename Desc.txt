@@ -10,3 +10,5 @@ I Have Attached The Documentations Of The Project Workings.
 GitHub Project Link: https://github.com/praabindh/Reimagined-3D
 Project Description And Documentation: https://github.com/praabindh/Reimagined-3D/blob/main/README.md
 Project Demo Link: https://reimagined3d.netlify.app/
+
+Built During The Internship Phase Of Product Engineer In Codingmart Technologies, Coimbatore, Tamil Nadu, India.
